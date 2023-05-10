@@ -1,0 +1,15 @@
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/bin/Debug/net7.0/FirstCSharp
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/bin/Debug/net7.0/FirstCSharp.deps.json
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/bin/Debug/net7.0/FirstCSharp.runtimeconfig.json
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/bin/Debug/net7.0/FirstCSharp.dll
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/bin/Debug/net7.0/FirstCSharp.pdb
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.csproj.AssemblyReference.cache
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.AssemblyInfo.cs
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.dll
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/refint/FirstCSharp.dll
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.pdb
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/FirstCSharp.genruntimeconfig.cache
+/Users/josh/cSharpLearning/FirstCSharpEver/FirstCSharp/FirstCSharp/obj/Debug/net7.0/ref/FirstCSharp.dll

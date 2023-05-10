@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BD668D9B-3E7C-44D4-8A8C-DF4321136EC7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstCSharp/Program.cs">
+    <Files>
+      <File FileName="FirstCSharp/Program.cs" Line="3" Column="40" />
+      <File FileName="FirstCSharp/classOnHeap.cs" Line="13" Column="1" />
+      <File FileName="FirstCSharp/EmptyClass.cs" Line="53" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstCSharp" expanded="True">
+            <Node name="FirstCSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FirstCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
